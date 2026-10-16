@@ -37,3 +37,120 @@ export const skills = [
   ["Languages", "C, Java, Python"],
   ["Core", "DSA, OOPS, Git and GitHub"],
 ];
+
+
+export const reelCategories = [
+  "All",
+  "Motivational",
+  "Podcast",
+  "Storytelling",
+];
+
+export const reelDetails = [
+  {
+    title: "The Power of Self-Belief",
+    category: "Motivational",
+    format: "Vertical reel",
+    focus: "Captions and emphasis",
+  },
+  {
+    title: "Stop Waiting. Start Now!",
+    category: "Podcast",
+    format: "Vertical reel",
+    focus: "Conversation pacing",
+  },
+  {
+    title: "Get Full Control of Your Life",
+    category: "Storytelling",
+    format: "Vertical reel",
+    focus: "B-roll and captions",
+  },
+  {
+    title: "He Tested Raj's Lies",
+    category: "Podcast",
+    format: "Vertical reel",
+    focus: "Multi-speaker narrative",
+  },
+];
+
+export const services = [
+  {
+    number: "01",
+    title: "Podcast Reels",
+    category: "STORYTELLING",
+    description:
+      "Transform long conversations into engaging short-form videos with strong hooks, clean cuts, and a clear story.",
+    color: "lavender",
+  },
+  {
+    number: "02",
+    title: "Dynamic Captions",
+    category: "VIEWER ENGAGEMENT",
+    description:
+      "Create bold, readable captions with highlighted keywords and motion that follows the speaker's rhythm.",
+    color: "peach",
+  },
+  {
+    number: "03",
+    title: "Talking-Head Videos",
+    category: "PACING & FLOW",
+    description:
+      "Make talking-head content more engaging through precise cuts, reaction shots, and supporting visuals.",
+    color: "mint",
+  },
+  {
+    number: "04",
+    title: "Short-Form Content",
+    category: "VERTICAL VIDEO",
+    description:
+      "Create vertical-first edits designed for Instagram Reels, YouTube Shorts, and other social platforms.",
+    color: "blue",
+  },
+];
+
+export const editingSteps = [
+  {
+    number: "01",
+    title: "Find the hook",
+    description:
+      "Find the strongest moment and give viewers a reason to keep watching.",
+  },
+  {
+    number: "02",
+    title: "Shape the story",
+    description:
+      "Remove dead air and repetition while keeping the original meaning intact.",
+  },
+  {
+    number: "03",
+    title: "Build the rhythm",
+    description:
+      "Use cuts, reaction shots, and supporting visuals to keep the video moving.",
+  },
+  {
+    number: "04",
+    title: "Style the captions",
+    description:
+      "Make important words stand out with mobile-friendly typography and animation.",
+  },
+  {
+    number: "05",
+    title: "Polish the finish",
+    description:
+      "Refine audio, timing, and visual details before exporting the final edit.",
+  },
+];
+
+export const developerTools = [
+  "HTML",
+  "CSS",
+  "JavaScript",
+  "React.js",
+  "Node.js",
+  "REST APIs",
+  "MySQL",
+  "MongoDB",
+  "Java",
+  "Python",
+  "Git & GitHub",
+];
